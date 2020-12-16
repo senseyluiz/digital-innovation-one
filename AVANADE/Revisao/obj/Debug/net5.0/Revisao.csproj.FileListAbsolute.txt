@@ -1,0 +1,16 @@
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\bin\Debug\net5.0\Revisao.exe
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\bin\Debug\net5.0\Revisao.deps.json
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\bin\Debug\net5.0\Revisao.dll
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\bin\Debug\net5.0\Revisao.pdb
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\obj\Debug\net5.0\Revisao.dll
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\obj\Debug\net5.0\Revisao.pdb
+D:\Estudos\bootcamp\DIO\digital-innovation-one\AVANADE\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
